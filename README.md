@@ -6,3 +6,4 @@
 
 ## **2/18**
 * 8am - 9pm: getting repo set up + planning the day
+* 9am -      [practice project](https://github.com/karenaxon/portfolio-react.git) - portfolio with React, Sanity, Tailwind
