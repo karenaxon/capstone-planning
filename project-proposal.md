@@ -10,6 +10,7 @@
 
 * A user can create an account/profile
 * A user can add/delete images to/from their account
+* The project has basic styling.  
 
 ### What resources will be used (frameworks, libraries, APIs, ect) to create this MVP?
 
