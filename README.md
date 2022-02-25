@@ -23,5 +23,6 @@
 
 ## **2/25**
 * 8am - 9pm: getting Glimpse repo set up + planning the application
-* 9am - 10am: put project chart together, add README to project, etc. 
-* 10am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
+* 9am - 10am: put project chart image and README to together. 
+* 10am - 10:45: setting up Sanity studio project and troubleshooting "The git repository at XXXX has too many active changes, only a subset of Git features will be enabled." Which hopefully will be resolved by adding a gitignore to the backend folder.
+* 10:45am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
