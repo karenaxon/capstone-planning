@@ -23,3 +23,5 @@
 
 ## **2/25**
 * 8am - 9pm: getting Glimpse repo set up + planning the application
+* 9am - 10am: put project chart together, add README to project, etc. 
+* 10am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
