@@ -18,3 +18,8 @@
   
 ### **New/Cool Things:**
 * [ React social icons](https://www.npmjs.com/package/react-social-icons)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## **2/25**
+* 8am - 9pm: getting Glimpse repo set up + planning the application
