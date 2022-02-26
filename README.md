@@ -25,4 +25,12 @@
 * 8am - 9pm: getting Glimpse repo set up + planning the application
 * 9am - 10am: put project chart image and README to together. 
 * 10am - 10:45: setting up Sanity studio project and troubleshooting "The git repository at XXXX has too many active changes, only a subset of Git features will be enabled." Which hopefully will be resolved by adding a gitignore to the backend folder.
-* 10:45am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
+* 10:45am - 5pm: See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
+  
+### **Issues encountered:**
+* In the morning I encountered some issues mainly because I divided the project into a frontend(react) folder and a backend(sanity) folder. Git had a hard time with the setup and didn't know what files were tracked/not tracked or had been edited. My work around was to include a gitignore file in each of the folders and upload these to the repo in their corresponding folders.
+
+### **New/Cool Things:**
+
+* [React loader spinner](https://www.npmjs.com/package/react-loader-spinner)
+* [React Masonry CSS](https://www.npmjs.com/package/react-masonry-css)
