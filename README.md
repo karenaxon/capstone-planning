@@ -34,3 +34,9 @@
 
 * [React loader spinner](https://www.npmjs.com/package/react-loader-spinner)
 * [React Masonry CSS](https://www.npmjs.com/package/react-masonry-css)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## **3/4**
+
+8am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
