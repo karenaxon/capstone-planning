@@ -39,4 +39,4 @@
 
 ## **3/4**
 
-8am - : See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
+8am - 5pm: See [Glimpse]("https://github.com/karenaxon/glimpse.git") repo for commits.
