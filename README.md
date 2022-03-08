@@ -40,3 +40,11 @@
 ## **3/4**
 
 8am - 5pm: See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## **3/8**
+
+1:30pm - : See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
