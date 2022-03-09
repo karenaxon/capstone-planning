@@ -55,3 +55,7 @@
 8:00pm - 10:30pm: researching hosting the app through AWS or another vendor.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+## **3/9**
+
+8:00am -  See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
