@@ -58,4 +58,10 @@
 
 ## **3/9**
 
-8:00am - noon & 2:00pm - 6:00pm: See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
+8:00am - noon 
+2:00pm - 6:00pm
+8:00pm - 
+See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
