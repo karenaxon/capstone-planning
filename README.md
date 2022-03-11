@@ -67,4 +67,4 @@ See [Glimpse](https://github.com/karenaxon/glimpse.git) repo for commits.
 
 ## **3/10**
 
-9:30am -  
+9:30am - 12:00pm 
